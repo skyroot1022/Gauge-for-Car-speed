@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Neuropol_XXX;
+    src: url(../font/neuropol.ttf);
+}
+
+body {
+  background: #292D5D; 
+}
+.cantant_o{
+  //position: absolute;
+  display: inline-block;
+}
+.canvas {
+    position: relative;
+    left: -120px;
+    top: 0px;
+    cursor: pointer;
+}
+.canvas_back{
+  position: relative;
+  left: 120px;
+    top: 0px;
+}
+
+
